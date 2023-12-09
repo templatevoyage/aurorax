@@ -4,6 +4,7 @@
 ## Overview
 
 AuroraX is a responsive and customizable web template crafted by Template Voyage. It seamlessly combines the power of Bootstrap for beautiful layouts and Django for dynamic web applications.
+
 ---
 
 **Description:**
